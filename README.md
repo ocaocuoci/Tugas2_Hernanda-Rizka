@@ -15,4 +15,4 @@ Repositori ini Merupakan situs web eksplorasi kompiler interaktif. Authornya ada
 https://github.com/electron/electron-api-demos
 Repositori ini adalah aplikasi desktop yang secara interaktif dan dengan kode sampel menunjukkan fitur inti dari Electron API. Authonya electron. menggunakan bahasa pemrograman HTML, JavaScript, CSS, dan Shell.
 
-https://trello.com/invite/b/66d81293a09b490aa4646c1e/ATTI452c35a43f7f98d4301aa316408940d49B1614F2/hernanda-r 
+https://trello.com/invite/b/66d81293a09b490aa4646c1e/ATTI452c35a43f7f98d4301aa316408940d49B1614F2/hernanda-r
